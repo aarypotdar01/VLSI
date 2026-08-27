@@ -28,12 +28,3 @@ The AND gate was implemented using the Verilog bitwise AND operator.
 ```verilog
 assign Y = A & B;
 
-## Simulation
-
-**Tool:** Xilinx Vivado 2023.1
-
-**Simulation Type:** Behavioral Simulation
-
-### Simulation Waveform
-
-![AND Gate Simulation](waveform.png)
