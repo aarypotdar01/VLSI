@@ -46,7 +46,7 @@ The output `Y` is observed for each input condition.
 
 ### Simulation Waveform
 
-![NOT Gate Simulation](waveform.png)
+![NOT Gate Simulation](waveform.jpg)
 
 ## Result
 
