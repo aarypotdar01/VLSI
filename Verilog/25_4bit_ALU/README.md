@@ -79,6 +79,13 @@ The testbench verifies all eight supported operations.
 | COMPARE     | `0101 == 0101` | `0001`          | ✅      |
 
 ---
+## 📊 Simulation Waveform
+
+The following waveform was generated using **Xilinx Vivado 2023.1 Behavioral Simulation**.
+
+![4-bit ALU Simulation Waveform](waveform.png)
+
+The waveform verifies the ALU operations and corresponding `RESULT`, `CARRY`, and `ZERO` outputs.
 
 ## 🚩 Status Flags
 
